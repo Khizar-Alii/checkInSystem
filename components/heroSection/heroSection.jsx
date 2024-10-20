@@ -15,7 +15,7 @@ const HeroSection = () => {
         sx={{
           height: { xs: "200px", sm: "279px" },
           position: "relative",
-          backgroundImage: "url(../../assets/images/hero2.jpg)",
+          backgroundImage: "url(https://firebasestorage.googleapis.com/v0/b/react-assignment-4b8be.appspot.com/o/hero2.jpg?alt=media&token=d3f74079-faf5-4ea3-ae29-2037334cc1ef)",
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
           boxShadow: "14px 17px 40px 0px rgba(0, 0, 0, 0.13)",
